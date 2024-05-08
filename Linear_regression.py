@@ -5,12 +5,14 @@
 # Descrition:
 # 1-Approximation
 # y_hat = w*x+b, #y_hat: linear predictor, w:weight, b:bias
+
 # 2-Cost Function:
 # MSE = J(w,b)= (1/N)*sum(y_i-(w*x_i+b)**2  
+
 # 3- Mean Squared Error:
 # J'(w,b) = (dJ/dw,dJ/db) # gradient of J(w,b) whih we want to minimize
 
-#Gradient Descent Update Rules
+# 4-Gradient Descent Update Rules
 # w = w - alpha * dw #alpha: learning rate
 # b = b - alpha * db
 
