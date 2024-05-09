@@ -1,11 +1,21 @@
-Gradient Descent in Autograd Library
+Intro to Machine Learning
 
-Several implementations and experiments with the Gradient Descent in Python, including:
+Content:
 
-1-Basic Object Oriented implementation of Linear Regression from scratch
+-Gradient Descent in Autograd Library
 
-2-Gradient Descent Implementation using backward function
+   Several implementations and experiments with the Gradient Descent in Python, including:
 
-3-Implementation of backward function from scratch
+   1-Basic Object Oriented implementation of Linear Regression from scratch
 
-4-Experiments and Examples
+   2-Gradient Descent Implementation using backward function
+
+   3-Implementation of backward function from scratch
+
+   4-Experiments and Examples
+
+-Decision Trees
+   
+   -Main ALgorithm: ID3
+
+   -Experiments w sklearn library
