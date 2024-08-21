@@ -1,9 +1,3 @@
-TODO List
+TODO
 
-1-neural-net.ipynb needs cleaning:
-    -Merge abalon example with the Abalone project
-    -binary classification at  the end not applicable to price predict problem
-    -models constructed are repeated, specially they have the same
-    name
-
-2-Update README
+--Update README
