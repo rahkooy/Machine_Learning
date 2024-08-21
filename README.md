@@ -1,8 +1,8 @@
 # Machine Learning Models with Examples
 
-This repository contains a set of Jupyter notebooks, as well as corresponding Python files, each explaining a well-known Machine Learning model. We mostly use built-in models from standard libraries such as PyTorch, Scikit-learn, Pandas, Numpy, etc. The notebooks cite references that provide the theoretical background of the models.
+This repository contains a set of Jupyter notebooks, as well as corresponding Python files, each of which explaining a well-known Machine Learning model. We mostly use built-in models from standard libraries such as PyTorch, Scikit-learn, Pandas, Numpy, etc. Each notebook cites references to the theoretical background of the models.
 
-For our examples, we consider either online datasets included in some libraries (e.g., Iris) or provide the link to the source of the dataset used.
+For our examples, we consider either online datasets included in some libraries (e.g., Iris) or we provide the reader with a link to the open-source dataset used.
 
 ## Table of Contents
 
