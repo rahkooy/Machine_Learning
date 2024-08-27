@@ -16,8 +16,8 @@ For our examples, we consider either online datasets included in some libraries 
 - [Stochastic Gradient Descent (SGD)](#sgd)
 - [Support Vector Machines (SVM)](#svm)
 - [AdaBoost](#adaboost)
-- [Underfitting and Overfitting](#underfitting-and-overfitting)
 - [Bagging](#bagging)
+- [Underfitting and Overfitting](#underfitting-and-overfitting)
 - [Neural Networks](#neural-networks)
 - [Convolutional Neural Networks (CNN)](#cnn)
 
@@ -26,6 +26,13 @@ For our examples, we consider either online datasets included in some libraries 
 **Directory: `Decision Trees`**
 
 - Experiments with Decision Tree Classifier from the sklearn library, optimization, visualization, etc.
+
+## Train/Test Split
+
+**Files: `Train_Test.ipynb` and `Train_Test.py`**
+
+- Basics of splitting the data into training and testing sets manually or via built-in methods in sklearn.
+- Experiments with random examples and visualization of results on a polynomial regressor.
 
 ## Linear Regression
 
@@ -75,6 +82,12 @@ For our examples, we consider either online datasets included in some libraries 
 - Using the built-in Stochastic Gradient Descent Classifier in the sklearn library.
 - Experiments with the Iris dataset with visualization of the results.
 
+## Support Vector Machines (SVM)
+
+**Files: `svm.ipynb` and `svm.py`**
+
+- Using several built-in Support Vector Machine Classifiers and regressors (SVC, NuSVC, and LinearSVC) on a simple dataset.
+
 ## AdaBoost
 
 **Files: `adaboost.ipynb` and `adaboost.py`**
@@ -89,6 +102,12 @@ For our examples, we consider either online datasets included in some libraries 
 - Comparison with the Decision Tree classifier.
 - Visualizing Decision Tree results and showcasing Out-of-Bag Observations.
 
+## Underfitting and Overfitting
+
+**File: `under-overfit.ipynb`**
+
+- Building a function that recognizes underfitting and overfitting using mean absolute error on a built-in Decision Tree Regressor in the sklearn library.
+- Experiments using the Iris dataset.
 ## Neural Networks
 
 **File: `neural-net.ipynb`**
@@ -105,22 +124,3 @@ For our examples, we consider either online datasets included in some libraries 
 - Designing a Convolutional Neural Network (CNN) using Keras in the TensorFlow library.
 - Experiments on the CIFAR-10 Dataset, visualizing the performance of the model.
 
-## Support Vector Machines (SVM)
-
-**Files: `svm.ipynb` and `svm.py`**
-
-- Using several built-in Support Vector Machine Classifiers and regressors (SVC, NuSVC, and LinearSVC) on a simple dataset.
-
-## Train/Test Split
-
-**Files: `Train_Test.ipynb` and `Train_Test.py`**
-
-- Basics of splitting the data into training and testing sets manually or via built-in methods in sklearn.
-- Experiments with random examples and visualization of results on a polynomial regressor.
-
-## Underfitting and Overfitting
-
-**File: `under-overfit.ipynb`**
-
-- Building a function that recognizes underfitting and overfitting using mean absolute error on a built-in Decision Tree Regressor in the sklearn library.
-- Experiments using the Iris dataset.
