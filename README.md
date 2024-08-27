@@ -6,20 +6,20 @@ For our examples, we consider either online datasets included in some libraries 
 
 ## Table of Contents
 
-- [Gradient Descent](#gradient-descent)
 - [Decision Trees](#decision-trees)
-- [AdaBoost](#adaboost)
-- [Bagging](#bagging)
-- [Convolutional Neural Networks (CNN)](#cnn)
-- [Cross-Validation](#cross-validation)
-- [Kernel Methods](#kernel-methods)
-- [K-Nearest Neighbors (KNN)](#knn)
+- [Train/Test Split](#train-test-split)
 - [Linear Regression](#linear-regression)
-- [Neural Networks](#neural-networks)
+- [K-Nearest Neighbors (KNN)](#knn)
+- [Kernel Methods](#kernel-methods)
+- [Cross-Validation](#cross-validation)
+- [Gradient Descent](#gradient-descent)
 - [Stochastic Gradient Descent (SGD)](#sgd)
 - [Support Vector Machines (SVM)](#svm)
-- [Train/Test Split](#train-test-split)
+- [AdaBoost](#adaboost)
 - [Underfitting and Overfitting](#underfitting-and-overfitting)
+- [Bagging](#bagging)
+- [Neural Networks](#neural-networks)
+- [Convolutional Neural Networks (CNN)](#cnn)
 
 ## Gradient Descent
 
