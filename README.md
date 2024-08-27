@@ -13,7 +13,7 @@ For our examples, we consider either online datasets included in some libraries 
 - [Kernel Methods](#kernel-methods)
 - [Cross-Validation](#cross-validation)
 - [Gradient Descent](#gradient-descent)
-- [Stochastic Gradient Descent (SGD)](#Stochstic-Gradient-Descent-sgd)
+- [Stochastic Gradient Descent (SGD)](#Stochastic-Gradient-Descent-sgd)
 - [Support Vector Machines (SVM)](#Support-Vector-Machine-svm)
 - [AdaBoost](#adaboost)
 - [Bagging](#bagging)
