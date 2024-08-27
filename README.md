@@ -19,7 +19,7 @@ For our examples, we consider either online datasets included in some libraries 
 - [Bagging](#bagging)
 - [Underfitting and Overfitting](#underfitting-and-overfitting)
 - [Neural Networks](#neural-networks)
-- [Convolutional Neural Networks (CNN)](#Convolutional-neural-network-cnn)
+- [Convolutional Neural Networks (CNN)](#Convolutional-neural-networks-cnn)
 
 ## Decision Trees
 
