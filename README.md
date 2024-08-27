@@ -14,7 +14,7 @@ For our examples, we consider either online datasets included in some libraries 
 - [Cross-Validation](#cross-validation)
 - [Gradient Descent](#gradient-descent)
 - [Stochastic Gradient Descent (SGD)](#Stochastic-Gradient-Descent-sgd)
-- [Support Vector Machines (SVM)](#Support-Vector-Machine-svm)
+- [Support Vector Machines (SVM)](#Support-Vector-Machines-svm)
 - [AdaBoost](#adaboost)
 - [Bagging](#bagging)
 - [Underfitting and Overfitting](#underfitting-and-overfitting)
